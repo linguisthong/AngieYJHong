@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angie! <br/><a href=""> A researcher </a>, <a href="">Program Evaluation Specialist</a>, <a href="">Data Scientist</a></h1>
+<h1>Hi, I'm Angie! <br/><a href=""> A researcher</a>, <a href="">Program Evaluation Specialist</a>, <a href="">Data Scientist</a></h1>
 
 <h2>👨‍💻 Reserach Projects:</h2>
 
